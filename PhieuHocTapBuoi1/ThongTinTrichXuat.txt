@@ -1,0 +1,6 @@
+- 3 thông tin trong cửa sổ Header:
+   + Request URL: https://tlu.edu.vn
+   + Request Method: GET
+   + Status Code: 200 OK
+
+- Câu hỏi phản biện: Nhập bất kỳ vào ô tìm kiếm của trang tlu rồi nhấn OK. Đế ý thấy thanh URL hiện nội dung mình tìm kiếm. Tại sao lại xảy ra hiện tượng này, mình nghĩ URL chỉ để hiện tên các trang html thôi chứ?
