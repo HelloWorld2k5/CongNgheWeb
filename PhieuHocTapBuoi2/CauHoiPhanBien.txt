@@ -1,0 +1,1 @@
+Câu hỏi phản biện: Tại sao trong PHP cần có dấu $ trước tên biến, không giống với các ngôn ngữ lập trình khác??
