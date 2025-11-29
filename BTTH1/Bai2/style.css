@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+}
+
+.question {
+    font-weight: bold;
+}
+
+.option-list {
+    list-style-type: none;
+}
